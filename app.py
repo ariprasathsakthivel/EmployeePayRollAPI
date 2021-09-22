@@ -12,9 +12,6 @@ import random
 
 app=Flask(__name__)
 
-
-
-
 employees=list()
 
 def company_emp_wage():
